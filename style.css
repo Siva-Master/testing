@@ -1,0 +1,47 @@
+p{
+    text-align: left;
+}
+body{
+    background-color: black;
+}
+main{
+    background-color: red;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.jo{
+    background-color: black;
+    text-align: center;
+}
+#sec-CA{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+#sec-IM{
+    background-color: white;
+    color: red;
+    text-align: center;
+}
+#sec-LK{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+#sec-TR{
+    background-color: white;
+    color: red;
+    text-align: center;
+}
+#sec-BW{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+#footer-sec{
+    background-color: black;
+    text-align: right;
+    color: white;
+}
